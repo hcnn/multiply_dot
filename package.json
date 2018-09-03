@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "repo": "hcnn/multiply_dot",
   "description": "Dot Product multiplication of two vectors",
-  "keywords": ["dot product", "vector multiplication"],
+  "keywords": ["dot product", "inner product", "vector multiplication"],
   "license": "MIT",
   "src": ["multiply_dot.c", "multiply_dot.h"]
 }
